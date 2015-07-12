@@ -1,5 +1,5 @@
-# privacy
-Privacy for www.fdzh.org
+# TOS
+Terms of Service for www.fdzh.org
 
 We trust you have received the usual lecture from the local System
 Administrator. It usually boils down to these three things:
